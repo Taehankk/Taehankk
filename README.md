@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning ...
+<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taehankk&layout=compact&theme=tokyonight"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Taehankk&show_icons=true&theme=tokyonight">
 <br />
 
 - 🔭 I’m currently working on ...
+<br />
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kth1514)](https://solved.ac/thundevistan/)
