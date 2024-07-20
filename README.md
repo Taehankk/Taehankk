@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 <br />
 
 - 🔭 I’m currently working on ...
-<br />
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kth1514)](https://solved.ac/thundevistan/)
