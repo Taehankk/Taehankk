@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Taehankk&show_icons=true&theme=tokyonight">
 <br />
 
-- 🔭 I’m currently working on ...
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kth1514)](https://solved.ac/thundevistan/)
