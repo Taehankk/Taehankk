@@ -30,6 +30,7 @@
            /> 
     </div> 
     </div>
+    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kth1514)](https://solved.ac/kth1514)    
 
 
