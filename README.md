@@ -30,7 +30,6 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taehankk&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
             <br />
             <img src="http://mazassumnida.wtf/api/generate_badge?boj=kth1514" alt="solved.ac Profile"/>
-            [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kth1514)](https://solved.ac/kth1514)
             <br />
             <img src="https://github-readme-stats.vercel.app/api?username=Taehankk&bg_color=180,000000,&title_color=000000&text_color=000000" />
        </div> 
